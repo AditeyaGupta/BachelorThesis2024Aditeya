@@ -8,7 +8,7 @@ Group Fixed Effects (GFE) models (Bonhomme & Manresa, 2015)
 
 Interactive Fixed Effects (IFE) models (Bai, 2009)
 
-Group Interactive Fixed Effects (GIFE) extensions
+Group Interactive Fixed Effects (GIFE) extensions - Novel method of this paper.
 
 Repository Structure
 
